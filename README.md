@@ -8,9 +8,14 @@ The first step I took when examining this project was to look at the index.html 
 
 The main thing I've learned from this is that semantic HTML looks much cleaner than using a whole bunch of <div> and in order to become more functional in CSS, a lot of practice is required.
 
+## Usage 
+
+![](./assets/images/Top.Screenshot.png)
+![](./assets/images/Bottom.Screenshot.png)
+
 ## Link to Website 
 
-https://mserafin20.github.io/horiseon-refactor-project/#social-media-marketing
+[Live Site](https://mserafin20.github.io/horiseon-refactor-project/#social-media-marketing)
 
 ## License 
 
